@@ -5,8 +5,7 @@ let num2 = 31;
 const multiply = (num1 * num2);
 
 
-let random = 1;
-Math.random();
+let random = Math.floor(Math.random())+1
 
 
 let num3 = 10;
